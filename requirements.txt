@@ -1,0 +1,10 @@
+archtool
+web-fractal
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic
+furl
+aiohttp
+pytz
