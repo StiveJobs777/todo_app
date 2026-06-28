@@ -2,6 +2,8 @@
 
 Минимальный ToDo API на **archtool v2.x** + **web_fractal** + **FastAPI** + **SQLAlchemy (async)**.
 
+![ERD](docs/erd.png)
+
 ## Быстрый старт
 
 ```bash
